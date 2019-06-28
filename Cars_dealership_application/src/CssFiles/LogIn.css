@@ -1,6 +1,6 @@
 
 #background{
-    -fx-background-image: url("file:login.png");
+    -fx-background-image: url("file:src/login.png");
     -fx-background-repeat: stretch;
     -fx-background-size: 700 400;
     -fx-background-position: center center;

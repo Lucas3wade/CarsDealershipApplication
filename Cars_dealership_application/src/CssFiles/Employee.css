@@ -1,6 +1,6 @@
 
 #background{
-    -fx-background-image: url("file:EmployeeView.jpg");
+    -fx-background-image: url("file:src/EmployeeView.jpg");
     -fx-background-repeat: stretch;
     -fx-background-size: 650 350;
     -fx-background-position: 400 0;
