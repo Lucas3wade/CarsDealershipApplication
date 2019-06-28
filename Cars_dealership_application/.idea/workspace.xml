@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60cf46de-080b-452b-84d4-0f92ce1cc47a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JavaFXApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cars_dealership_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployeeView.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WBD salon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/CssFiles/Client.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/CssFiles/Employee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/CssFiles/LogIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/META-INF/Cars_dealership_application.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataBaseConnection/DataBaseConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataModels/ClientsTransactions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataModels/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataModels/EmployeeTransactions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataModels/Salary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/ScenesHandler/ClientSceneHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/ScenesHandler/EmployeeSceneHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/ScenesHandler/LoginSceneHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaFxApplication/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/Klient.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/LogIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/Pracownik.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/DataBaseConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/KlientSceneHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/LoginSceneHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/Pracownik.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/PracownikSceneHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/TransakcjeKlienta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/TransakcjePracownika.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/Wynagrodzenia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CssFiles/Client.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CssFiles/Employee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CssFiles/LogIn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/DataBaseConnection/DataBaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/DataModels/ClientsTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/DataModels/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/DataModels/EmployeeTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/DataModels/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/ScenesHandler/ClientSceneHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/ScenesHandler/EmployeeSceneHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/ScenesHandler/LoginSceneHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/ScenesHandler/EmployeeSceneHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="523" column="58" selection-start-line="523" selection-start-column="58" selection-end-line="523" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/DataBaseConnection/DataBaseConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/DataModels/Salary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>transakcjeScene</find>
+      <find>clientsTransactionsScene</find>
+      <find>deleteChosenTransacion</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/ScenesHandler/KlientSceneHandler.java" />
+        <option value="$PROJECT_DIR$/src/sample/DataModels/Pracownik.java" />
+        <option value="$PROJECT_DIR$/src/sample/DataModels/PracownikTransakcje.java" />
+        <option value="$PROJECT_DIR$/src/sample/ScenesHandler/PracownikSceneHandler.java" />
+        <option value="$PROJECT_DIR$/src/sample/DataBaseConnection/DataBaseConnection.java" />
+        <option value="$PROJECT_DIR$/src/CssFiles/Employee.css" />
+        <option value="$PROJECT_DIR$/src/sample/DataModels/ClientsTransactions.java" />
+        <option value="$PROJECT_DIR$/src/sample/DataModels/EmployeeTransactions.java" />
+        <option value="$PROJECT_DIR$/src/sample/DataModels/Salary.java" />
+        <option value="$PROJECT_DIR$/src/sample/ScenesHandler/LoginSceneHandler.java" />
+        <option value="$PROJECT_DIR$/src/sample/DataModels/Employee.java" />
+        <option value="$PROJECT_DIR$/src/sample/ScenesHandler/ClientSceneHandler.java" />
+        <option value="$PROJECT_DIR$/src/sample/ScenesHandler/EmployeeSceneHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="386" />
+    <option name="y" value="109" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cars_dealership_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cars_dealership_application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cars_dealership_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cars_dealership_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cars_dealership_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cars_dealership_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cars_dealership_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cars_dealership_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="DataBaseConnection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cars_dealership_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cars_dealership_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="DataModels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cars_dealership_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cars_dealership_application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="ScenesHandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ojdbc8.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/CssFiles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Cars_dealership_application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.DataBaseConnection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60cf46de-080b-452b-84d4-0f92ce1cc47a" name="Default Changelist" comment="" />
+      <created>1561668257759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561668257759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32890365" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25749168" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmployeeView.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CssFiles/Employee.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CssFiles/Client.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/ScenesHandler/LoginSceneHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/DataModels/ClientsTransactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/DataModels/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/DataModels/EmployeeTransactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/ScenesHandler/ClientSceneHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="349" lean-forward="true" selection-start-line="349" selection-end-line="349" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/DataModels/Salary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/ScenesHandler/EmployeeSceneHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="523" column="58" selection-start-line="523" selection-start-column="58" selection-end-line="523" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/DataBaseConnection/DataBaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Cars_dealership_application</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
