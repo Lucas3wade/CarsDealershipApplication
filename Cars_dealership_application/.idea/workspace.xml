@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60cf46de-080b-452b-84d4-0f92ce1cc47a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cars_dealership_application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeView.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WBD salon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.jnlp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/CssFiles/Client.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/CssFiles/Employee.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/CssFiles/LogIn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/META-INF/Cars_dealership_application.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataBaseConnection/DataBaseConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataModels/ClientsTransactions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataModels/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataModels/EmployeeTransactions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/DataModels/Salary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/ScenesHandler/ClientSceneHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/ScenesHandler/EmployeeSceneHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/ScenesHandler/LoginSceneHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cars_dealership_application/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFxApplication/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/Klient.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/LogIn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/Pracownik.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/DataBaseConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/KlientSceneHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/LoginSceneHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/Pracownik.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/PracownikSceneHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/TransakcjeKlienta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/TransakcjePracownika.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/Wynagrodzenia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/WBD salon/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CssFiles/Client.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CssFiles/Employee.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CssFiles/LogIn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/DataBaseConnection/DataBaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/DataModels/ClientsTransactions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/DataModels/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/DataModels/EmployeeTransactions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/DataModels/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/ScenesHandler/ClientSceneHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/ScenesHandler/EmployeeSceneHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/ScenesHandler/LoginSceneHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="60cf46de-080b-452b-84d4-0f92ce1cc47a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
