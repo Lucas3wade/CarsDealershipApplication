@@ -1,0 +1,58 @@
+INSERT INTO Siedziby_krajowe VALUES (1, 'Morris','Karol','Kowalski',TO_DATE('2015-08-19',' YYYY-MM-DD'),1600,'Polska',1)
+
+INSERT INTO Adresy VALUES (1,'Warszawa','Kosciuszki','14',null,'16-499')
+INSERT INTO Adresy VALUES (2,'Suwalki','Utrata','12a','13','16-400')
+INSERT INTO Adresy VALUES (3,'Zamosc','Korczaka','8c','4','12-131')
+INSERT INTO Adresy VALUES (4,'Poznan','Bycza','16',null,'16-333')
+INSERT INTO Adresy VALUES (5,'Szczecin','Kacza','1','13','12-111')
+
+INSERT INTO Salony_samochodowe VALUES (1, 'Wyrda',TO_DATE('2016-11-12',' YYYY-MM-DD'),'66666','wyrda@salon.pl','wyrda.pl',1,1)
+INSERT INTO Salony_samochodowe VALUES (2, 'Zaba',TO_DATE('2017-07-22',' YYYY-MM-DD'),'3333344','zaba@salon.pl','zaba.pl',1,2)
+INSERT INTO Salony_samochodowe VALUES (3, 'Kola',TO_DATE('2018-09-30',' YYYY-MM-DD'),'444444444','Kola@salon.pl','Kola.pl',1,3)
+
+INSERT INTO Stanowiska VALUES (1,'Mechanik','Serwisuje samochody')
+
+INSERT INTO Stanowiska VALUES (2,'Sprzedawca','Sprzedaje ubezpieczenia i samochody')
+
+INSERT INTO Stanowiska VALUES (3,'Ksiegowa','Odpowiada za finanse')
+
+INSERT INTO Modele VALUES (1,'A4','Sportowy')
+
+INSERT INTO Modele VALUES (2,'A6','Limuzyna')
+
+INSERT INTO Modele VALUES (3,'TT','Wyscigowy')
+
+INSERT INTO Klienci VALUES (1,'Lukasz','Kowalski','M','21e312',null,66666,null,5)
+
+INSERT INTO Pracownicy VALUES (1,'Karol','Nowak','99071200000','M',TO_DATE('2017-12-12','YYYY-MM-DD'),TO_DATE('1999-07-12','YYYY-MM-DD'),1,3,null)
+
+INSERT INTO Samochody VALUES (1,2018,3.0,'11111199071200000',300,'Niebieski',1,3)
+
+INSERT INTO Wynagrodzenia VALUES (1,To_date('2018-12-10','YYYY-MM-DD'),1400.25,'Grudniowa wyplata',300.44,1)
+
+INSERT INTO Uslugi VALUES (1,'Wymiana opon',1400.25,0,'Zmiana zimowych na letnie')
+
+INSERT INTO Uslugi VALUES (2,'Sprzedaz samochodu',15009.20,5,'Samochod zimowej kolekcji')
+
+INSERT INTO Uslugi VALUES (3,'Ubezpieczenie',500.65,3,'Usluga na miejscu')
+
+INSERT INTO Serwisy VALUES (1,'Pelny','TAK',0)
+
+INSERT INTO Ubezpieczenia VALUES (2,'OC',To_date('2020-12-12','YYYY-MM-DD'))
+
+INSERT INTO Zakupy_samochodow VALUES (1,3,'TAK','TAK')
+
+INSERT INTO Transakcje VALUES (1,To_date('2017-12-12','YYYY-MM-DD'),1,1,1,1,1)
+
+INSERT INTO Transakcje VALUES (2,To_date('2017-12-12','YYYY-MM-DD'),1,2,1,1,1)
+
+INSERT INTO Transakcje VALUES (3,To_date('2017-12-12','YYYY-MM-DD'),1,3,1,1,1)
+
+INSERT INTO Oferty VALUES (1,1,To_date('2017-12-12','YYYY-MM-DD'),null)
+
+INSERT INTO Oferty VALUES (2,2,To_date('2017-12-12','YYYY-MM-DD'),To_date('2019-12-12','YYYY-MM-DD'))
+
+INSERT INTO Oferty VALUES (3,3,To_date('2017-12-12','YYYY-MM-DD'),null)
+
+
+
